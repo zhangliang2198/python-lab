@@ -65,6 +65,8 @@ if __name__ == "__main__":
     linked_list.append(2)
     linked_list.append(3)
     linked_list.append(4)
+    linked_list.append(5)
+    linked_list.append(6)
 
     print("原始链表：")
     linked_list.display()
